@@ -1,0 +1,17 @@
+carRegNo
+id
+name
+mobileNumber
+nationality
+gender
+email
+idproof
+address
+checkin
+numberofseats
+carType
+carRegNo
+priceperday
+numberOfDaysrent
+totalammount
+checkout
