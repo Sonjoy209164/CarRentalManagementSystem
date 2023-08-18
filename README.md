@@ -23,6 +23,9 @@ A java project made by netbeans
 ---
 
 
+## Design overview
+![main](https://github.com/Sonjoy209164/CarRentalManagementSystem/tree/d6e0bb8608a19d8188d65bd506aa5234eaf2548f/pictures)
+
 
 ## Introduction
 
