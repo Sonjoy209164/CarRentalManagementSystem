@@ -80,7 +80,7 @@ It provides tools for managing vehicle inventory, customer information, reservat
 
 ---
 
-##attraction
+## attraction
  -Can add car picture 
  -Does the daily transaction calculations itself
  -has a dedicated employee/admin and user pannel
