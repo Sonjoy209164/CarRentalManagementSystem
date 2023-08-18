@@ -24,7 +24,11 @@ A java project made by netbeans
 
 
 ## Design overview
-![main](https://github.com/Sonjoy209164/CarRentalManagementSystem/tree/d6e0bb8608a19d8188d65bd506aa5234eaf2548f/pictures)
+![main](https://github.com/Sonjoy209164/CarRentalManagementSystem/blob/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/0.1.png)
+![main](https://github.com/Sonjoy209164/CarRentalManagementSystem/blob/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/0.2.png)
+![main](https://github.com/Sonjoy209164/CarRentalManagementSystem/blob/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/0.3.png)
+![main](https://github.com/Sonjoy209164/CarRentalManagementSystem/blob/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/0.4.png)
+![main](https://github.com/Sonjoy209164/CarRentalManagementSystem/blob/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/0.png)
 
 
 ## Introduction
