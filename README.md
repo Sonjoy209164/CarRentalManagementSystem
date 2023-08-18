@@ -2,7 +2,8 @@
 A java project made by netbeans 
 # Car Rental Management System
 
-![Project Image](project_image.png) <!-- Replace with an image related to your project -->
+![Project Ima![Screenshot_20221117_042112](https://github.com/Sonjoy209164/CarRentalManagementSystem/assets/66799652/5785fba7-d8ac-42e7-990c-8db9c69f5fe8)
+ge](project_image.png) <!-- Replace with an image related to your project -->
 
 > A Java-based Car Rental Management System developed using NetBeans.
 
